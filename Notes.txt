@@ -1,2 +1,3 @@
 https://www.admiralbumblebee.com/music/2018/09/22/Reascript-Tutorial.html
 https://www.lua.org/pil/8.1.html
+https://www.reddit.com/r/rust/comments/qg2zo1/how_to_run_rust_on_arduino/
